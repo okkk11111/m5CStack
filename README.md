@@ -12,3 +12,5 @@ including accuracy, sensitivity, and specificity. Furthermore, SHAP-based featur
 contribution of specific features, further improving the interpretability of the model. Overall, this study highlights the
 potential of m5CStack as a powerful tool for RNA modification profiling, offering new insights into the epigenetic regulation
 of RNA across species.
+
+![workflow](https://github.com/user-attachments/assets/ebd6c2b2-125e-459a-a72b-1d052b03c969)
