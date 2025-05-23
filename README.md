@@ -15,6 +15,7 @@ of RNA across species.
 
 ![workflow](https://github.com/user-attachments/assets/ebd6c2b2-125e-459a-a72b-1d052b03c969)
 
-Datasets: the data we used in the paper is consistent with the data from the paper "m5C-Seq: Machine learning-enhanced profiling of RNA 5-methylcytosine modifications".
+Datasets: the data we used in the paper is consistent with the data from the paper "m5C-Seq: Machine learning-enhanced profiling of RNA 5-methylcytosine modifications"[1].
 
-If the web server mentioned in the paper is inaccessible, you may access the service via the backup address: http://8.217.42.111:5001.
+[1]Zeeshan Abbas, Mobeen Ur Rehman, Hilal Tayara, Seung Won Lee, and Kil To Chong. m5c-seq: Machine learning-enhanced profiling of rna 5-methylcytosine modifications. Computers in Biology and Medicine, 182:109087, 2024.
+
